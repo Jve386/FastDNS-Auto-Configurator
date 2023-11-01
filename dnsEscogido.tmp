@@ -1,0 +1,7 @@
+
+Haciendo ping a fec0:0:0:ffff::1%1 con 32 bytes de datos:
+PING: error en la transmisi¢n. Error general. 
+
+Estad¡sticas de ping para fec0:0:0:ffff::1%1:
+    Paquetes: enviados = 1, recibidos = 0, perdidos = 1
+    (100% perdidos),

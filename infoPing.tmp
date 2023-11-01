@@ -1,0 +1,204 @@
+
+Haciendo ping a 192.168.17.127 con 32 bytes de datos:
+Tiempo de espera agotado para esta solicitud.
+
+Estad¡sticas de ping para 192.168.17.127:
+    Paquetes: enviados = 1, recibidos = 0, perdidos = 1
+    (100% perdidos),
+
+Haciendo ping a 8.8.8.8 con 32 bytes de datos:
+Respuesta desde 8.8.8.8: bytes=32 tiempo=13ms TTL=117
+
+Estad¡sticas de ping para 8.8.8.8:
+    Paquetes: enviados = 1, recibidos = 1, perdidos = 0
+    (0% perdidos),
+Tiempos aproximados de ida y vuelta en milisegundos:
+    M¡nimo = 13ms, M ximo = 13ms, Media = 13ms
+
+Haciendo ping a 6.6.6.6 con 32 bytes de datos:
+Tiempo de espera agotado para esta solicitud.
+
+Estad¡sticas de ping para 6.6.6.6:
+    Paquetes: enviados = 1, recibidos = 0, perdidos = 1
+    (100% perdidos),
+
+Haciendo ping a 192.168.17.125 con 32 bytes de datos:
+Tiempo de espera agotado para esta solicitud.
+
+Estad¡sticas de ping para 192.168.17.125:
+    Paquetes: enviados = 1, recibidos = 0, perdidos = 1
+    (100% perdidos),
+
+Haciendo ping a 1.1.1.1 con 32 bytes de datos:
+Respuesta desde 1.1.1.1: bytes=32 tiempo=10ms TTL=56
+
+Estad¡sticas de ping para 1.1.1.1:
+    Paquetes: enviados = 1, recibidos = 1, perdidos = 0
+    (0% perdidos),
+Tiempos aproximados de ida y vuelta en milisegundos:
+    M¡nimo = 10ms, M ximo = 10ms, Media = 10ms
+
+Haciendo ping a 1.0.0.1 con 32 bytes de datos:
+Respuesta desde 1.0.0.1: bytes=32 tiempo=11ms TTL=56
+
+Estad¡sticas de ping para 1.0.0.1:
+    Paquetes: enviados = 1, recibidos = 1, perdidos = 0
+    (0% perdidos),
+Tiempos aproximados de ida y vuelta en milisegundos:
+    M¡nimo = 11ms, M ximo = 11ms, Media = 11ms
+
+Haciendo ping a 149.112.112.112 con 32 bytes de datos:
+Respuesta desde 149.112.112.112: bytes=32 tiempo=11ms TTL=56
+
+Estad¡sticas de ping para 149.112.112.112:
+    Paquetes: enviados = 1, recibidos = 1, perdidos = 0
+    (0% perdidos),
+Tiempos aproximados de ida y vuelta en milisegundos:
+    M¡nimo = 11ms, M ximo = 11ms, Media = 11ms
+
+Haciendo ping a 9.9.9.9 con 32 bytes de datos:
+Respuesta desde 9.9.9.9: bytes=32 tiempo=10ms TTL=56
+
+Estad¡sticas de ping para 9.9.9.9:
+    Paquetes: enviados = 1, recibidos = 1, perdidos = 0
+    (0% perdidos),
+Tiempos aproximados de ida y vuelta en milisegundos:
+    M¡nimo = 10ms, M ximo = 10ms, Media = 10ms
+
+Haciendo ping a 208.67.222.222 con 32 bytes de datos:
+Respuesta desde 208.67.222.222: bytes=32 tiempo=10ms TTL=56
+
+Estad¡sticas de ping para 208.67.222.222:
+    Paquetes: enviados = 1, recibidos = 1, perdidos = 0
+    (0% perdidos),
+Tiempos aproximados de ida y vuelta en milisegundos:
+    M¡nimo = 10ms, M ximo = 10ms, Media = 10ms
+
+Haciendo ping a 208.67.220.220 con 32 bytes de datos:
+Respuesta desde 208.67.220.220: bytes=32 tiempo=12ms TTL=56
+
+Estad¡sticas de ping para 208.67.220.220:
+    Paquetes: enviados = 1, recibidos = 1, perdidos = 0
+    (0% perdidos),
+Tiempos aproximados de ida y vuelta en milisegundos:
+    M¡nimo = 12ms, M ximo = 12ms, Media = 12ms
+
+Haciendo ping a 80.57.61.254 con 32 bytes de datos:
+Respuesta desde 80.57.61.254: bytes=32 tiempo=60ms TTL=52
+
+Estad¡sticas de ping para 80.57.61.254:
+    Paquetes: enviados = 1, recibidos = 1, perdidos = 0
+    (0% perdidos),
+Tiempos aproximados de ida y vuelta en milisegundos:
+    M¡nimo = 60ms, M ximo = 60ms, Media = 60ms
+
+Haciendo ping a 80.58.61.250 con 32 bytes de datos:
+Respuesta desde 80.58.61.250: bytes=32 tiempo=4ms TTL=249
+
+Estad¡sticas de ping para 80.58.61.250:
+    Paquetes: enviados = 1, recibidos = 1, perdidos = 0
+    (0% perdidos),
+Tiempos aproximados de ida y vuelta en milisegundos:
+    M¡nimo = 4ms, M ximo = 4ms, Media = 4ms
+
+Haciendo ping a 192.168.17.127 con 32 bytes de datos:
+Tiempo de espera agotado para esta solicitud.
+
+Estad¡sticas de ping para 192.168.17.127:
+    Paquetes: enviados = 1, recibidos = 0, perdidos = 1
+    (100% perdidos),
+
+Haciendo ping a 8.8.8.8 con 32 bytes de datos:
+Respuesta desde 8.8.8.8: bytes=32 tiempo=24ms TTL=117
+
+Estad¡sticas de ping para 8.8.8.8:
+    Paquetes: enviados = 1, recibidos = 1, perdidos = 0
+    (0% perdidos),
+Tiempos aproximados de ida y vuelta en milisegundos:
+    M¡nimo = 24ms, M ximo = 24ms, Media = 24ms
+
+Haciendo ping a 6.6.6.6 con 32 bytes de datos:
+Tiempo de espera agotado para esta solicitud.
+
+Estad¡sticas de ping para 6.6.6.6:
+    Paquetes: enviados = 1, recibidos = 0, perdidos = 1
+    (100% perdidos),
+
+Haciendo ping a 192.168.17.125 con 32 bytes de datos:
+Tiempo de espera agotado para esta solicitud.
+
+Estad¡sticas de ping para 192.168.17.125:
+    Paquetes: enviados = 1, recibidos = 0, perdidos = 1
+    (100% perdidos),
+
+Haciendo ping a 1.1.1.1 con 32 bytes de datos:
+Respuesta desde 1.1.1.1: bytes=32 tiempo=10ms TTL=56
+
+Estad¡sticas de ping para 1.1.1.1:
+    Paquetes: enviados = 1, recibidos = 1, perdidos = 0
+    (0% perdidos),
+Tiempos aproximados de ida y vuelta en milisegundos:
+    M¡nimo = 10ms, M ximo = 10ms, Media = 10ms
+
+Haciendo ping a 1.0.0.1 con 32 bytes de datos:
+Respuesta desde 1.0.0.1: bytes=32 tiempo=10ms TTL=56
+
+Estad¡sticas de ping para 1.0.0.1:
+    Paquetes: enviados = 1, recibidos = 1, perdidos = 0
+    (0% perdidos),
+Tiempos aproximados de ida y vuelta en milisegundos:
+    M¡nimo = 10ms, M ximo = 10ms, Media = 10ms
+
+Haciendo ping a 149.112.112.112 con 32 bytes de datos:
+Respuesta desde 149.112.112.112: bytes=32 tiempo=10ms TTL=56
+
+Estad¡sticas de ping para 149.112.112.112:
+    Paquetes: enviados = 1, recibidos = 1, perdidos = 0
+    (0% perdidos),
+Tiempos aproximados de ida y vuelta en milisegundos:
+    M¡nimo = 10ms, M ximo = 10ms, Media = 10ms
+
+Haciendo ping a 9.9.9.9 con 32 bytes de datos:
+Respuesta desde 9.9.9.9: bytes=32 tiempo=10ms TTL=56
+
+Estad¡sticas de ping para 9.9.9.9:
+    Paquetes: enviados = 1, recibidos = 1, perdidos = 0
+    (0% perdidos),
+Tiempos aproximados de ida y vuelta en milisegundos:
+    M¡nimo = 10ms, M ximo = 10ms, Media = 10ms
+
+Haciendo ping a 208.67.222.222 con 32 bytes de datos:
+Respuesta desde 208.67.222.222: bytes=32 tiempo=10ms TTL=56
+
+Estad¡sticas de ping para 208.67.222.222:
+    Paquetes: enviados = 1, recibidos = 1, perdidos = 0
+    (0% perdidos),
+Tiempos aproximados de ida y vuelta en milisegundos:
+    M¡nimo = 10ms, M ximo = 10ms, Media = 10ms
+
+Haciendo ping a 208.67.220.220 con 32 bytes de datos:
+Respuesta desde 208.67.220.220: bytes=32 tiempo=10ms TTL=56
+
+Estad¡sticas de ping para 208.67.220.220:
+    Paquetes: enviados = 1, recibidos = 1, perdidos = 0
+    (0% perdidos),
+Tiempos aproximados de ida y vuelta en milisegundos:
+    M¡nimo = 10ms, M ximo = 10ms, Media = 10ms
+
+Haciendo ping a 80.57.61.254 con 32 bytes de datos:
+Respuesta desde 80.57.61.254: bytes=32 tiempo=57ms TTL=52
+
+Estad¡sticas de ping para 80.57.61.254:
+    Paquetes: enviados = 1, recibidos = 1, perdidos = 0
+    (0% perdidos),
+Tiempos aproximados de ida y vuelta en milisegundos:
+    M¡nimo = 57ms, M ximo = 57ms, Media = 57ms
+
+Haciendo ping a 80.58.61.250 con 32 bytes de datos:
+Respuesta desde 80.58.61.250: bytes=32 tiempo=2ms TTL=249
+
+Estad¡sticas de ping para 80.58.61.250:
+    Paquetes: enviados = 1, recibidos = 1, perdidos = 0
+    (0% perdidos),
+Tiempos aproximados de ida y vuelta en milisegundos:
+    M¡nimo = 2ms, M ximo = 2ms, Media = 2ms
